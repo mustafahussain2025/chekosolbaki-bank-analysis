@@ -1,8 +1,11 @@
 Czechoslovakia Bank Analysis Dashboard
+
 About Dashboard
+
 This Power BI dashboard provides a comprehensive analysis of the banking operations and financial performance of a fictional bank, Czechoslovakia Bank. By leveraging the data visualization capabilities of Power BI, the dashboard offers valuable insights into various aspects of the bank's operations, aiding decision-making and strategic planning.
 
 Key Features:
+
 Bank Overview: Get a quick snapshot of the bank's overall performance, including total cards issued, loan, and transactions.
 
 Customer Segmentation: Analyze customer demographics and behaviors to understand different customer segments and tailor banking services accordingly.
@@ -18,6 +21,7 @@ Branch Performance: Analyze the performance of different bank branches, includin
 Risk Management: Assess credit, market, and operational risks to proactively manage potential challenges and ensure compliance with regulatory standards.
 
 How to Use:
+
 Data Source: Connect the dashboard to your bank's database or import CSV files containing data on the bank's operations and financial performance.
 
 Dashboard Navigation: Utilize filters, slicers, and other interactive elements to explore the data and uncover insights specific to different aspects of the bank's operations.
