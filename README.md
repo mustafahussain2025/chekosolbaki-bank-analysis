@@ -27,6 +27,7 @@ Customization: Tailor the dashboard to meet your organization's specific needs b
 Sharing and Collaboration: Share insights with stakeholders by publishing the dashboard to Power BI Service, or export reports for offline use.
 
 Requirements:
+
 Power BI Desktop (latest version recommended)
 Access to data from the bank's operations
 Basic understanding of Power BI for customization and data manipulation
